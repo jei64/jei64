@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jei64
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning C, C++, JavaScript, HTML and CSS
+- ⚡ Fun fact: Mukaon nakog code
